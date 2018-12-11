@@ -1,0 +1,18 @@
+DATA SCIENCE SPECIALIZATION
+
+COMSC 415 Machine Learning
+
+And four courses from the following list
+
+CIS   350 Geographic Information Systems
+COMSC 331 Bioinformatics and Lab
+COMSC 410 Artificial Intelligence
+COMSC 450 SpTp in Computer Science
+MATH  225 Mathematical Data Science
+MATH  305 Mathematical Modeling
+MATH  331 Linear Algebra
+MGMT  325 Business Analytics
+PHYS  350 Computational Physics
+SEC   220 Database Design and Implementation
+
+The MATH course(s) a student selects as electives cannot be used to satisfy the Mathematics Core Concentration.

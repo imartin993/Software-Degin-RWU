@@ -1,0 +1,23 @@
+COMM 210 FA18 Introduction to Public Speaking           CORE 103 SP19 Human Behavior in Perspective
+CORE 102 FA18 Challenges of Democracy                       ENGR 115 SP19 Computer Applications for Engr.
+ENGR 110 FA18 Engineering Graphics and Design          MATH 214 SP19 Calculus II & Lab
+MATH 213 FA18 Calculus I & Lab                                    PHYS 201 SP19 Physics I & Lab
+WTNG 102 FA18 Expository Writing                                WTNG 220 SP19 Critical Writing for the Prof. 
+
+CHEM 191 FA19 Chemistry I & Lab                                  CHEM 192 SP20 Chemistry II & Lab 
+CORE 104 FA19 Lit., Phil., and the Examined Life           CORE 105 SP20 Aesthetics in Context: The Art. Impulse
+ENGR 210 FA19 Engineering Statics                                 ENGR 220 SP20 Engineering Dynamics
+MATH 317 FA19 Differential Equations                            ENGR 300 SP20 Mechanics of Materials & Lab
+PHYS 202 FA19 Physics II & Lab                                     MATH 315 SP20 Probability & Statistics 
+
+ENGR 240 FA20 Circuit Theory & Lab                              ENGR 305 SP21 Fluid Mechanics & Lab 
+ENGR 320 FA20 Environmental Engineering                     ENGR        SP21 Engineering Elective
+ENGR 330 FA20 Thermodynamics                                     ENGR        SP21 Engineering Elective
+MATH        FA20 Math Elective 200 Level or above          ENGR        SP21 Engineering Elective
+ENGR         FA20 Engineering Elective 
+
+CORE        FA21 Core Interdisciplinary Senior Seminar   ENGR 492 SP22 Engineering Design II
+ENGR 401 FA21 Engineering Senior Seminar                  ENGR        SP21 Engineering Elective
+ENGR 335 FA21 Engineering Economic Analysis            ENGR        SP21 Engineering Elective
+ENGR 490 FA21 Engineering Design I                             ENGR        SP21 Engineering Elective
+ENGR        FA21 Engineering Elective                              ENGR        SP21 Engineering Elective

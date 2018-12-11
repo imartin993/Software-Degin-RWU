@@ -1,0 +1,24 @@
+COMSCI 110 FA18 Intro to C.S. I & Lab                   CORE 103  SP19 Human Behavior in Perspective
+CORE 102 FA18 Challenges of Democracy                   COMSC 111 SP19  Data Structures & Lab                       
+MATH 221 FA18 Discrete Mathematics                                SP19 Science course (1st) & lab                          
+WTNG 102 FA18 Expository Writing                        MATH 213  SP19 Calculus I & Lab
+ 
+
+COMSC 210 FA19 Princ. of Comp. Org. & Lab               COMSC 230 SP20 Principles of Programming Languages
+CORE 104 FA19 Lit., Phil., and the Examined Life        CORE  105 SP20  Artistic Impulse 
+COMSC 335 FA19 Theory of Computation                    COMSC 340 SP20 Analysis of Algorithms
+MATH 214 FA19 Calculus II & Lab                         MATH  315 SP20 Probability & Statistics 
+WTNG 220 FA19 Critical Writing for the Prof.                      SP20 Science course (2nd) & lab 
+
+COMM  210 FA20 Introduction to Public Speaking          COMSC 440 SP21 Lang Translation & Compiler Design 
+COMSC 330 FA20 Software Design                          COMSC     SP21 Specialization Elective
+COMSC 420 FA20 Principles of Operating Systems          COMSC     SP21 Specialization Elective
+          FA20 Science course (3rd) & lab               MATH      SP21  Math Elective (>200)
+COMSC     FA20 Specialization Elective                            SP21  Free Elective
+
+ 
+SEC 200   FA21 Intro to Networking                      SEC   201 SP22 Security Techniques
+COMSC 490 FA21 Integrated Senior Design I               COMSC 401 SP22 CS Senior Seminar
+CORE 4__  FA21 Core Senior Seminar                      COMSC 492 SP22 Integrated Senior Design II
+COMSC     FA21 Specialization Elective                  COMSC     SP22 Specialization Elective
+          FA21 Math Elective or Science Elective                  SP22 Free Elective 

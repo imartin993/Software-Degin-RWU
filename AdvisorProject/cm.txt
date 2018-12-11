@@ -1,0 +1,25 @@
+CNST 100 FA18 Intro to Const. Management                    CNST 130 SP19 Plans, Specifications and Building Codes 
+CNST 116 FA18 Computer Applications for Const.           CNST 200 SP19 Const. Methods and Materials & Lab
+CORE 102 FA18 Challenges of Democracy                       CORE 103 SP19 Human Behavior in Perspective
+MATH 136 FA18 Pre-Calculus                                           MATH 207 SP19 Applied Calculus    
+WTNG 102 FA18 Expository Writing                                WTNG 220 SP19 Critical Writing for the Professions
+
+ACCTG 201 FA19 Accounting I: Financial                        CNST 250 SP20 Construction Equipment
+CNST 201 FA19 Adv. Const. Methods & Mats. & Lab      CNST 260 SP20 Construction Estimating and Scheduling
+COMM 210 FA19 Introduction to Public Speaking            CORE 105 SP20 Aesthetics in Context: The Art. Impulse
+CORE 104 FA19 Lit., Phil., and the Examined Life           ECON 111 SP20  Principles of Microeconomics 
+PHYS 109 FA19 Physics I Algebra based and Lab                               SP20 Science Elective and Lab
+
+CNST 302 FA20 Surveying and Lab                                    CNST 304 SP21 Applied Structures
+CNST 321 FA20 Adv. Building and Estimating                  CNST 450 SP21 Construction Planning and Scheduling
+ENGR 210 FA20 Engineering Statics                                  CORE        SP21 Core Interdisciplinary Senior Seminar 
+MGMT 200 FA20 Management Principles                          MATH 124 SP21 Basic Statistics 
+                     FA20 Core Concentration #1                           MRKT 200 SP21 Marketing Principles
+                                                                                              SP21 Core Concentration #2 
+
+CNST 445 FA21 Const. Project Mgmt. and Safety & Lab  CNST 455 SP22 Mechanical / Electrical Design
+CNST 475 FA21 Construction Project Control                    CNST 480 SP22 Capstone Project, Ethics and New Tech. 
+LS     220 FA21 Fundamentals of Contract Law  or             CM            SP22 Construction Management Elective
+BUSN 305 FA21 Legal Environment of Business I             BUSN        SP22 Business Elective
+FA21 Core Concentration #3                                                                   SP22 Core Concentration #5
+FA21 Core Concentration #4

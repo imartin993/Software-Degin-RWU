@@ -1,0 +1,20 @@
+Computer Engineering Specialization
+
+COMSC 110 Introduction to Computer Science I & Lab
+COMSC 111 Date Structures & Lab
+ENGR 260 Engineering Electronics & Lab
+ENGR 270 Digital Systems Design & Lab
+ENGR 370 Microprocessors 
+ENGR 430 Sp Tp: VLSI
+
+And three courses from the following list:
+
+COMSC 210 Principles of Computer Organization & Lab
+COMSC 230 Principles of Programming Languages
+COMSC 340 Analaysis of Algorithms
+COMSC 420 Principles of Operating Systems
+ENGR 360 Signals and Systems
+ENGR 424 Digital Signal Processing
+ENGR 430 Special Topics (with permission of advisor)
+ENGR 450 Mechatronics
+PHYS 350 Computational Physics

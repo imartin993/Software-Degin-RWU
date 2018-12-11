@@ -1,0 +1,20 @@
+Electrical Engineering Specialization
+
+ENGR 260 Engineering Electronics & Lab
+ENGR 270 Digital System Design & Lab
+ENGR 360 Signals and Systems 
+ENGR 370 Microprocessors 
+ENGR 424 Digital Signal Processing
+ENGR 445 Dynamic Modelign and Control
+ENGR 460 Electromagnetic Theory	
+
+And two courses from the following list:
+
+ENGR 340 Sustainable Energy Systems
+ENGR 430 Special Topics (with permission of advisor)
+ENGR 430 Sp Tp: VLSI
+ENGR 433 Heat Transfer
+ENGR 450 Mechatronics
+PHYS 320 Modern Physics
+   or 
+PHYS 350 Computational Physics

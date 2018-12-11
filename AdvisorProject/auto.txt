@@ -1,0 +1,15 @@
+INTELLEGENT AND AUTONOMOUS SYSTEMS SPECIALIZATION
+
+COMSC 410 Artificial Intellegence 
+ENGR  450 Mechatronics
+
+And three courses from the following list
+
+COMSC 415 Machine Learning
+COMSC 450 SpTp in Computer Science
+ENGR  240 Circuit Theory and Lab
+ENGR  424 Digital Signal Processing
+MATH  317 Differential Equations
+MATH  331 Linear Algebra
+
+The MATH course(s) a student selects as electives cannot be used to satisfy the Mathematics Core Concentration.

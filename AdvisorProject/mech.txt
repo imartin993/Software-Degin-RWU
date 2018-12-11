@@ -1,0 +1,19 @@
+Mechanical Engineering Specialization
+
+ENGR 310 Material Science
+ENGR 332 Machine Design
+ENGR 350 Theory and Design of Mechanical Measurements
+ENGR 433 Heat Transfer
+ENGR 445 Dynamic Modeling and Control
+
+And four courses from the following list:
+
+ENGR 260 Engineering Electronics & Lab
+ENGR 337 Finti Element Analysis 
+ENGR 340 Sustainable Energy Systems
+ENGR 430 Special Topics (with permission of advisor)
+ENGR 431 Mechanical Vibrations
+ENGR 432 Manufacturing and Assembly
+ENGR 437 Acoustics
+ENGR 442 Biomechanics
+ENGR 450 Mechatronics

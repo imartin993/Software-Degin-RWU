@@ -1,0 +1,3 @@
+DATA SCIENCE SPECIALIZATION
+
+The student must select five approved courses among those courses with COMSC, ENGR, SEC, CIS, or MATH designations. Courses must be above the 200 and three 300 level. COMSC and ENGR courses cannot be taken from the list of required courses. The MATH course(s) a student selects as electives cannot be used to satisfy the requirements for the Mathematics Core Concentration or MATH/Science.
